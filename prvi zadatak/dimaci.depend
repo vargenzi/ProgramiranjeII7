@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601717569 source:c:\users\repic\desktop\dimaci\main.c
+	<stdio.h>
+	<stdlib.h>
+
